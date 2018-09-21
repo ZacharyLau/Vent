@@ -1,0 +1,6 @@
+framework module Pods_vent {
+  umbrella header "Pods-vent-umbrella.h"
+
+  export *
+  module * { export * }
+}
